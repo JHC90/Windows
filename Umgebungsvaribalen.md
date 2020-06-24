@@ -3,7 +3,7 @@
 Wenn diese hinterlegt sind so kann man in der CLI einfach einen "command" ohne direkten aufruf schreiben und das Programm kann in der liste "nachsehen" wo diese hinterlegt sind
 
 * suche im start nach "umgebungsvaribalen"
-* ![BildUmgebungsvaribale](/imgs/umgebungsvariablen.png)
+* ![BildUmgebungsvaribale](./imgs/umgebungsvariablen.png)
 * Nützlich bei
   * Python
   * Anaconda
