@@ -12,4 +12,7 @@
 
 # Alternative Download
 [Download der ISO](https://tb.rg-adguard.net/public.php)
+dann mit RUFUS einen Bootable USB-Stick und gut ist.
+
+# Zuletzt kann noch via PIXI boot ein OS deployed werden
 
